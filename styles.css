@@ -1,0 +1,10 @@
+
+.quarto-float-caption {
+    font-size: 1.3em;
+    padding-left: 1em;
+}
+
+
+figure.quarto-float-fig {
+    border: 3px solid #CCC;
+}

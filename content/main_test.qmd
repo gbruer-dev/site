@@ -1,0 +1,7 @@
+---
+title: "Main test"
+listing:
+    template: gallery.ejs
+    contents: main_test.yml
+---
+

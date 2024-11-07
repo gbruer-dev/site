@@ -1,0 +1,25 @@
+project:
+  type: website
+  resources:
+    - plots
+
+website:
+  title: "Notes"
+  navbar:
+    left:
+      - text: Home
+        file: index.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents: auto
+  reader-mode: true
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+filters:
+  - pseudocode
+

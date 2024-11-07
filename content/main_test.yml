@@ -1,0 +1,36 @@
+- category: Ground-truth
+  description: |
+    Synthetic system
+  tiles:
+    - title: Permeability
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/static/permeability/06.png
+    - title: Velocity
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/static/velocity/01.png
+    - title: Background velocity
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/static/velocity0/01.png
+    - title: Density
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/static/density/01.png
+    - title: Background density
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/static/density0/01.png
+    - title: Saturation
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/states/saturation/06.png
+    - title: Pressure
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/states/pressure/06.png
+    - title: Pressure difference
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/states/pressure_diff/06.png
+    - title: Background delta shot
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/observations/dshot/06.png
+    - title: Time-lapse delta shot
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/observations/dshot_diff/06.png
+    - title: RTM
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/observations/rtm/06.png
+    - title: Time-lapse RTM
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/observations/rtm_diff/06.png
+    - title: Background delta shot (clean)
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/observations_clean/dshot/06.png
+    - title: Time-lapse delta shot (clean)
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/observations_clean/dshot_diff/06.png
+    - title: RTM (clean)
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/observations_clean/rtm/06.png
+    - title: Time-lapse RTM (clean)
+      thumbnail: ../plots/ground_truth/HgPBQrJe4oG/observations_clean/rtm_diff/06.png

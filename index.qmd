@@ -1,0 +1,12 @@
+---
+title: "Hello"
+format:
+  html:
+    grid:
+      sidebar-width: 500px
+---
+
+I am using this site to easily access my pictures and perhaps share with others occasionally.
+
+Please enjoy your time here.
+

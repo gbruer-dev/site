@@ -1,0 +1,80 @@
+- category: Ground-truth
+  description: |
+    Synthetic system
+  tiles:
+    - title: Permeability
+      thumbnail: ../plots/ground_truth/states/BTsBCgjn6t5/permeability/05.png
+    - title: Saturation
+      thumbnail: ../plots/ground_truth/states/BTsBCgjn6t5/saturation/05.png
+    - title: Pressure
+      thumbnail: ../plots/ground_truth/states/BTsBCgjn6t5/pressure/05.png
+    - title: Pressure difference
+      thumbnail: ../plots/ground_truth/states/BTsBCgjn6t5/pressure_diff/05.png
+
+- category: Initial ensemble
+  description: |
+    Initial ensemble
+  tiles:
+    - title: Permeability
+      thumbnail: ../plots/initial_ensemble/states/6wYQu39U55P/permeability/05.png
+    - title: Saturation
+      thumbnail: ../plots/initial_ensemble/states/6wYQu39U55P/saturation/05.png
+
+- category: NoObs
+  description: |
+    No observations
+  tiles:
+    - title: Permeability mean estimate
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-1nwE2AIWRLe/mean/permeability/05.png
+    - title: Saturation mean estimate
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-1nwE2AIWRLe/mean/saturation/05.png
+    - title: Permeability variance
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-1nwE2AIWRLe/var/permeability/05.png
+    - title: Saturation variance
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-1nwE2AIWRLe/var/saturation/05.png
+    - title: "Member 1: permeability over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-1nwE2AIWRLe/e1/permeability/05.png
+    - title: "Member 1: saturation over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-1nwE2AIWRLe/e1/saturation/05.png
+    - title: "Member 1: pressure over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-1nwE2AIWRLe/e1/pressure/05.png
+    - title: "Member 1: pressure_diff over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-1nwE2AIWRLe/e1/pressure_diff/05.png
+    - title: "Member 2: permeability over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-1nwE2AIWRLe/e2/permeability/05.png
+    - title: "Member 2: saturation over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-1nwE2AIWRLe/e2/saturation/05.png
+    - title: "Member 2: pressure over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-1nwE2AIWRLe/e2/pressure/05.png
+    - title: "Member 2: pressure_diff over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-1nwE2AIWRLe/e2/pressure_diff/05.png
+
+
+- category: EnKF
+  description: |
+    Ensemble Kalman filter
+  tiles:
+    - title: Permeability mean estimate
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-SMtaHe0buY/mean/permeability/05.png
+    - title: Saturation mean estimate
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-SMtaHe0buY/mean/saturation/05.png
+    - title: Permeability variance
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-SMtaHe0buY/var/permeability/05.png
+    - title: Saturation variance
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-SMtaHe0buY/var/saturation/05.png
+    - title: "Member 1: permeability over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-SMtaHe0buY/e1/permeability/05.png
+    - title: "Member 1: saturation over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-SMtaHe0buY/e1/saturation/05.png
+    - title: "Member 1: pressure over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-SMtaHe0buY/e1/pressure/05.png
+    - title: "Member 1: pressure_diff over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-SMtaHe0buY/e1/pressure_diff/05.png
+    - title: "Member 2: permeability over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-SMtaHe0buY/e2/permeability/05.png
+    - title: "Member 2: saturation over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-SMtaHe0buY/e2/saturation/05.png
+    - title: "Member 2: pressure over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-SMtaHe0buY/e2/pressure/05.png
+    - title: "Member 2: pressure_diff over time"
+      thumbnail: ../plots/estimator_ensemble/states/BTsBCgjn6t5-6wYQu39U55P-SMtaHe0buY/e2/pressure_diff/05.png
